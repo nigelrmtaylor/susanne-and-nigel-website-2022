@@ -8,4 +8,4 @@ We are looking into finding hotels for all budgets for Friday to Sunday to allow
 
 We will be provinding transport from the hotels to the wedding ceremony on the rock, from there to Italy to our wedding party and back to the hotels afterwards.
 
-Click [Here](../accommodation) to get more information about accommodation
+Click [Here](/accommodation) to get more information about accommodation
