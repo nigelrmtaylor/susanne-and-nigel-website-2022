@@ -57,6 +57,14 @@ export default {
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
 
+  // hooks: {
+  //   'content:file:beforeParse': (file) => {
+  //     console.log('file', file)
+  //     if (file.extension !== '.md') return
+  //     file.data = file.data.replace(/react/g, 'vue')
+  //   },
+  // },
+
   i18n: {
     langDir: '~/locales/',
     locales: [
