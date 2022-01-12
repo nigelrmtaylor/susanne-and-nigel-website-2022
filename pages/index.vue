@@ -8,7 +8,7 @@
 
         <div class="md:col-span-3 m-10">
           <div
-            class="flex-grow bg-gray-light bg-opacity-80 p-5 text-center rounded-lg"
+            class="flex-grow bg-lightpurple bg-opacity-80 p-5 text-center rounded-lg"
           >
             <nuxt-content
               class="prose prose-xl p-5 max-w-none text-center"
@@ -19,11 +19,13 @@
 
         <div class="col-span-1">
           <div
-            class="flex-grow bg-gray-light bg-opacity-80 p-5 text-center rounded-lg"
+            class="flex-grow bg-whiteish bg-opacity-80 p-5 text-center rounded-lg"
           >
-            <img class="object-contain mx-auto" src="/mairie.jpg" />
+            <!-- <div class="bg-midpurple"> -->
+            <img class="object-fit w-full" src="/mairie.jpg" />
+            <!-- </div> -->
             <nuxt-content
-              class="prose prose-lg p-5 text-center"
+              class="prose lg:prose-lg p-5 text-center"
               :document="ceremonyPage"
             />
           </div>
@@ -31,11 +33,13 @@
 
         <div class="col-span-1">
           <div
-            class="flex-grow bg-gray-light bg-opacity-80 prose p-5 text-center rounded-lg"
+            class="flex-grow bg-whiteish bg-opacity-80 p-5 text-center rounded-lg"
           >
-            <img class="object-contain mx-auto" src="/castelroc.jpg" />
+            <!-- <div class="bg-midpurple"> -->
+            <img class="object-fit w-full" src="/castelroc.jpg" />
+            <!-- </div> -->
             <nuxt-content
-              class="prose prose-lg p-5 text-center"
+              class="prose lg:prose-lg p-5 text-center"
               :document="champagnePage"
             />
           </div>
@@ -43,11 +47,13 @@
 
         <div class="col-span-1">
           <div
-            class="flex-grow bg-gray-light bg-opacity-80 prose p-5 text-center rounded-lg"
+            class="flex-grow bg-whiteish bg-opacity-80 p-5 text-center rounded-lg"
           >
-            <img class="object-contain mx-auto" src="/villa_eva.jpg" />
+            <!-- <div class="bg-midpurple"> -->
+            <img class="object-fit w-full" src="/villa_eva.jpg" />
+            <!-- </div> -->
             <nuxt-content
-              class="prose prose-lg p-5 text-center"
+              class="prose lg:prose-lg p-5 text-center"
               :document="receptionPage"
             />
           </div>
@@ -55,11 +61,17 @@
 
         <div class="md:col-span-3 m-2">
           <div
-            class="flex-grow bg-gray-light bg-opacity-80 p-5 text-center rounded-lg"
+            class="flex-grow bg-whiteish bg-opacity-80 p-5 text-center rounded-lg"
           >
-            <img class="object-contain mx-auto" src="/menton.jpg" />
+            <!-- <div class="bg-midgreen"> -->
+            <!-- <img
+                class="object-fit w-full filter grayscale contrast-150 brightness-100 mix-blend-multiply"
+                src="/menton.jpg"
+              /> -->
+            <img class="object-fit w-full" src="/menton.jpg" />
+            <!-- </div> -->
             <nuxt-content
-              class="prose prose-xl p-5 max-w-none text-center"
+              class="prose lg:prose-xl p-5 max-w-none text-left"
               :document="accommodationPage"
             />
           </div>
@@ -67,11 +79,13 @@
 
         <div class="md:col-span-3 m-2">
           <div
-            class="flex-grow bg-gray-light bg-opacity-80 p-5 text-center rounded-lg"
+            class="flex-grow bg-whiteish bg-opacity-80 p-5 text-center rounded-lg"
           >
-            <img class="object-contain mx-auto" src="/nice-airport.jpg" />
+            <!-- <div class="bg-midpurple"> -->
+            <img class="object-fit w-full" src="/nice-airport.jpg" />
+            <!-- </div> -->
             <nuxt-content
-              class="prose prose-xl p-5 max-w-none text-center"
+              class="prose lg:prose-xl p-5 max-w-none text-left"
               :document="transportPage"
             />
           </div>
@@ -82,7 +96,7 @@
             class="flex-grow bg-gray-light bg-opacity-80 p-5 text-center rounded-lg"
           >
             <nuxt-content
-              class="prose prose-xl p-5 max-w-none text-center"
+              class="prose lg:prose-xl p-5 max-w-none text-center"
               :document="whatsappPage"
             />
           </div>
@@ -97,18 +111,19 @@ import Vue from 'vue'
 
 export default Vue.extend({
   async asyncData(context) {
+    console.log('in index')
     const { $content, app } = context
 
     const locale = app.i18n.locale
 
-    const homePath = `${app.i18n.locale}/home`
-    const thursdayPath = `${app.i18n.locale}/home_thursday`
-    const accommodationPath = `${app.i18n.locale}/home_accommodation`
-    const transportPath = `${app.i18n.locale}/home_transport`
-    const ceremonyPath = `${app.i18n.locale}/home_ceremony`
-    const champagnePath = `${app.i18n.locale}/home_champagne`
-    const rceceptionPath = `${app.i18n.locale}/home_reception`
-    const whatsappPath = `${app.i18n.locale}/home_whatsapp`
+    const homePath = `${locale}/home`
+    const thursdayPath = `${locale}/home_thursday`
+    const accommodationPath = `${locale}/home_accommodation`
+    const transportPath = `${locale}/home_transport`
+    const ceremonyPath = `${locale}/home_ceremony`
+    const champagnePath = `${locale}/home_champagne`
+    const receptionPath = `${locale}/home_reception`
+    const whatsappPath = `${locale}/home_whatsapp`
 
     // const posts = await $content(`${app.i18n.locale}/blog'`).fetch()
 
@@ -118,7 +133,7 @@ export default Vue.extend({
     const transportPage = await $content(transportPath).fetch()
     const ceremonyPage = await $content(ceremonyPath).fetch()
     const champagnePage = await $content(champagnePath).fetch()
-    const receptionPage = await $content(rceceptionPath).fetch()
+    const receptionPage = await $content(receptionPath).fetch()
     const whatsappPage = await $content(whatsappPath).fetch()
 
     return {

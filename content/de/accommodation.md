@@ -6,4 +6,4 @@ Menton is a lovely little French town between Monaco and the Italian border. It 
 
 We are looking into finding hotels for all budgets for Friday to Sunday to allow us all to meet for an informal dinner somewhere in Menton and a nice brunch on Sunday morning.
 
-We will be provinding transport from the hotels to the wedding ceremony on the rock, from there to Italy to our wedding party and back to the hotels afterwards.
+We will be providing transport from the hotels to the wedding ceremony on the rock, from there to Italy to our wedding party and back to the hotels afterwards.

@@ -12,10 +12,10 @@
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
+    "@nuxtjs/i18n": "^7.2.0",
     "core-js": "^3.9.1",
     "googleapis": "^39.2.0",
-    "nuxt": "^2.15.3",
-    "nuxt-i18n": "^6.28.1"
+    "nuxt": "^2.15.3"
   },
   "devDependencies": {
     "@nuxt/types": "^2.15.3",

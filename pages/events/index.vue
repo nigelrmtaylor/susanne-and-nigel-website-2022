@@ -1,7 +1,19 @@
 <template>
-  <article class="container mx-auto prose">
-    <nuxt-content :document="page" />
-  </article>
+  <div class="pt-20">
+    <div class="flex items-center justify-center mx-4">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div class="md:col-span-3 m-10">
+          <div class="flex-grow bg-gray-light bg-opacity-80 p-5 rounded-lg">
+            <img class="object-contain mx-auto" src="/menton.jpg" />
+            <nuxt-content
+              class="prose prose-xl p-5 max-w-none"
+              :document="page"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </template>
 
 <script lang="ts">
@@ -12,7 +24,7 @@ export default Vue.extend({
     const { $content, app } = context
 
     const locale = app.i18n.locale
-    const path = `${app.i18n.locale}/events/intro`
+    const path = `${app.i18n.locale}/events`
     const page = await $content(path).fetch()
 
     return {

@@ -42,7 +42,7 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
-    'nuxt-i18n',
+    '@nuxtjs/i18n',
   ],
 
   googleFonts: {
@@ -66,6 +66,7 @@ export default {
   // },
 
   i18n: {
+    strategy: 'prefix',
     langDir: '~/locales/',
     locales: [
       {
@@ -87,40 +88,41 @@ export default {
       cookieKey: 'i18n_redirected',
       redirectOn: 'root', // recommended
     },
-    vueI18n: {
-      fallbackLocale: 'en',
-      messages: {},
 
-      // messages: {
-      //   en: {
-      //     welcome: 'Welcome',
-      //     events: 'Events',
-      //     locations: 'Locations',
-      //     accommodation: 'Accommodation',
-      //     fridayjune2022: 'Friday June 2022',
-      //     wedding: 'Wedding',
-      //     faq: 'FAQ',
-      //   },
-      //   fr: {
-      //     welcome: 'Bienvenue',
-      //     events: 'Les Events',
-      //     locations: 'Les Locations',
-      //     accomomdation: 'Le Accommodation',
-      //     fridayjune2022: 'Vendredi Juin 2022',
-      //     wedding: 'Marriage',
-      //     faq: 'FAQ',
-      //   },
-      //   de: {
-      //     welcome: 'Welkomm',
-      //     events: 'Der Events',
-      //     locations: 'Der Locations',
-      //     accommodation: 'Das Accommodation',
-      //     fridayjune2022: 'Freitag Juni 2022',
-      //     wedding: 'Hochzeit',
-      //     faq: 'FAQ',
-      //   },
-      // },
-    },
+    //vueI18n: {
+    //  fallbackLocale: 'en',
+    //  messages: {},
+
+    // messages: {
+    //   en: {
+    //     welcome: 'Welcome',
+    //     events: 'Events',
+    //     locations: 'Locations',
+    //     accommodation: 'Accommodation',
+    //     fridayjune2022: 'Friday June 2022',
+    //     wedding: 'Wedding',
+    //     faq: 'FAQ',
+    //   },
+    //   fr: {
+    //     welcome: 'Bienvenue',
+    //     events: 'Les Events',
+    //     locations: 'Les Locations',
+    //     accomomdation: 'Le Accommodation',
+    //     fridayjune2022: 'Vendredi Juin 2022',
+    //     wedding: 'Marriage',
+    //     faq: 'FAQ',
+    //   },
+    //   de: {
+    //     welcome: 'Welkomm',
+    //     events: 'Der Events',
+    //     locations: 'Der Locations',
+    //     accommodation: 'Das Accommodation',
+    //     fridayjune2022: 'Freitag Juni 2022',
+    //     wedding: 'Hochzeit',
+    //     faq: 'FAQ',
+    //   },
+    // },
+    //  },
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

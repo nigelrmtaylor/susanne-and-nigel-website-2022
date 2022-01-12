@@ -1,39 +1,55 @@
 <template>
-  <header
-    class="bg-accent z-50 bg-opacity-100 h-5px p-2 border-b-2 border-gray-200"
-  >
-    <div class="mx-auto flex justify-between items-center">
-      <div class="right flex justify-start items-center">
-        <Logo class="w-80 h-8 mr-3" />
-      </div>
+  <header class="bg-whiteish z-50 bg-opacity-100 h-5px p-2">
+    <div class="mx-auto flex flex-wrap justify-between items-center">
+      <nuxt-link
+        class="hidden md:block font-sans text-md lg:text-xl text-green hover:text-purple active:font-bold ..."
+        :to="localePath('/')"
+      >
+        Susanne & Nigel
+      </nuxt-link>
 
       <div class="left self-end">
-        <ul class="font-serif flex lang-switch justify-around">
+        <ul class="flex lang-switch justify-around font-serif">
           <li class="mr-4 text-green">
-            <nuxt-link class="text-md ..." :to="localePath('/')">
+            <nuxt-link
+              class="text-md lg:text-lg hover:text-purple hover:underline active:font-bold ..."
+              :to="localePath('/')"
+            >
               {{ $t('home') }}
             </nuxt-link>
           </li>
           <li class="mr-4 text-green">
-            <nuxt-link class="text-md ..." :to="localePath('events')">
+            <nuxt-link
+              class="text-md lg:text-lg hover:text-purple hover:underline ..."
+              :to="localePath('events')"
+            >
               {{ $t('events') }}
             </nuxt-link>
           </li>
 
           <li class="mr-4 text-green">
-            <nuxt-link class="text-md ..." :to="localePath('transport')">
+            <nuxt-link
+              class="text-md lg:text-lg hover:text-purple hover:underline ..."
+              :to="localePath('transport')"
+            >
               {{ $t('transport') }}
             </nuxt-link>
           </li>
 
           <li class="mr-4 text-green">
-            <nuxt-link class="text-md ..." :to="localePath('accommodation')">
+            <nuxt-link
+              class="text-md lg:text-lg hover:text-purple hover:underline ..."
+              :to="localePath('accommodation')"
+            >
               {{ $t('accommodation') }}
             </nuxt-link>
           </li>
 
           <li class="mr-4 text-green" font-sans>
-            <nuxt-link class="text-md ..." :to="localePath('faq')">
+            <nuxt-link
+              class="text-md lg:text-lg hover:text-purple hover:underline ..."
+              :to="localePath('faq')"
+            >
               {{ $t('faq') }}
             </nuxt-link>
           </li>
@@ -43,29 +59,30 @@
       <div class="left self-end">
         <ul class="flex lang-switch justify-around">
           <li v-if="$i18n.locale !== 'en'" class="mr-4 font-serif text-green">
-            <nuxt-link class="text-md ..." :to="switchLocalePath('en')">
+            <nuxt-link
+              class="text-md lg:text-lg hover:text-purple hover:underline ..."
+              :to="switchLocalePath('en')"
+            >
               EN
             </nuxt-link>
           </li>
-          <li v-else class="mr-4 text-green font-serif">
-            <strong>EN</strong>
+
+          <li v-else class="mr-4 text-green lg:text-lg font-serif font-black">
+            EN
           </li>
           <li v-if="$i18n.locale !== 'de'" class="mr-4 font-serif text-green">
-            <nuxt-link class="text-md ..." :to="switchLocalePath('de')">
+            <nuxt-link
+              class="text-md lg:text-lg hover:text-purple hover:underline ..."
+              :to="switchLocalePath('de')"
+            >
               DE
             </nuxt-link>
           </li>
-          <li v-else class="mr-4 font-serif text-green">
-            <strong>DE</strong>
+          <li v-else class="mr-4 font-serif lg:text-lg text-green font-bold">
+            DE
           </li>
         </ul>
       </div>
     </div>
   </header>
 </template>
-
-<style scoped>
-.link {
-  font-family: 'Princess Sofia', cursive;
-}
-</style>

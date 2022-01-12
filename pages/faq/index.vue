@@ -1,6 +1,17 @@
 <template>
-  <div class="container mx-auto prose rounded-lg">
-    <nuxt-content class="bg-gray-light bg-opacity-80 p-10" :document="page" />
+  <div class="pt-20">
+    <div class="flex items-center justify-center mx-4">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div class="md:col-span-3 m-10">
+          <div class="flex-grow bg-gray-light bg-opacity-80 p-5 rounded-lg">
+            <nuxt-content
+              class="prose prose-xl p-5 max-w-none"
+              :document="page"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -12,7 +23,7 @@ export default Vue.extend({
     const { $content, app } = context
 
     const locale = app.i18n.locale
-    const path = `${app.i18n.locale}/faq/intro`
+    const path = `${app.i18n.locale}/faq`
     const page = await $content(path).fetch()
 
     return {
