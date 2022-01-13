@@ -1,11 +1,9 @@
-# Accommodation German
+# Accommodation
 
-We feel that the best options for accommodation are in Menton
+[Menton](/de/menton) ist unserer Meinung nach der beste Ort für Hotels. Als kleine Empfehlung, es wäre gut das Hotel eher bald zu buchen, Menton ist recht beliebt und die Buchungen für den Sommer haben begonnen.
 
-Menton is a lovely little French town between Monaco and the Italian border. It has the additional advantage of not having to pay the Monaco premium, so we decided to look for accommodation for all of us there.
+Menton ist eine reizende kleine französische Stadt zwischen Monaco und der italienischen Grenze. Ein weiterer Vorteil ist, dass man nicht Monaco-Preise zahlen muss.
 
-We are looking into finding hotels for all budgets for Friday to Sunday to allow us all to meet for an informal dinner somewhere in Menton and a nice brunch on Sunday morning.
+Wir sorgen für den Transport von Menton zur Hochzeitszeremonie auf dem Felsen in Monaco, dann weiter nach Italien zur Hochzeitsfeier und danach wieder zurück nach Menton.
 
-We will be provinding transport from the hotels to the wedding ceremony on the rock, from there to Italy to our wedding party and back to the hotels afterwards.
-
-Click [Here](/de/accommodation) for more information about accommodation
+[Hier klicken](/de/accommodation) für weitere Informationen zu den Unterkünften.

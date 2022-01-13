@@ -1,9 +1,26 @@
-# English Accommodation
+# Unterkunft
 
-We feel that the best options for accommodation are in Menton
+## Menton
 
-Menton is a lovely little French town between Monaco and the Italian border. It has the additional advantage of not having to pay the Monaco premium, so we decided to look for accommodation for all of us there.
+[Menton](/de/menton) ist unserer Meinung nach der beste Ort für Hotels hier.
 
-We are looking into finding hotels for all budgets for Friday to Sunday to allow us all to meet for an informal dinner somewhere in Menton and a nice brunch on Sunday morning.
+Menton ist eine reizende kleine französische Stadt zwischen Monaco und der italienischen Grenze. Ein weiterer Vorteil ist, dass man nicht Monaco-Preise zahlen muss.
 
-We will be providing transport from the hotels to the wedding ceremony on the rock, from there to Italy to our wedding party and back to the hotels afterwards.
+Wir sorgen für den Transport von Menton zur Hochzeitszeremonie auf dem Felsen in Monaco, dann weiter nach Italien zur Hochzeitsfeier und danach wieder zurück nach Menton.
+
+Wir haben uns in Menton umgeschaut und finden, dass folgende Hotel eine gute Lage haben und auch preislich OK sind.
+
+- [Royal Westminster](https://www.hotel-royal-westminster.com/en/) (mindestens 4 Übernachtungen)
+- [Balmoral](https://www.hotel-le-balmoral.fr/en/) (mindestens 4 Übernachtungen)
+- [Ibis Styles](https://all.accor.com/hotel/7009/index.en.shtml)
+- [Best Western Hôtel Mediteranee](https://www.hotel-med-menton.com/en/)
+
+Wir haben auch bei Booking.com geschaut und dort noch eine Reiha weiterer Hotels und Freienwohnungen in der gleichen Gegend gefunden, solltet Ihr diese vorziehen. 
+
+## Latte
+
+Die Hochzeitsfeier findet in der Villa Eva Beach in [Latte](/de/latte)statt, etwa 15 Minuten (Bus oder Taxi) von Menton entfernt. Latte is hübsch und ruhig, aber es gibt dort nichts zu tun und zu sehen, wir empfehlen als dort nicht zu übernachten, Menton erscheint uns erheblich besser.
+
+## Monaco
+
+Die Hochzeitszeremonie findet in Monaco statt, und es ist auch sicher interessant dort zu sein, die Übernachtungsmnöglichkeiten sind allerdings in einer ganz anderen Preisklasse. Auch hier, Menton ist unserer Meinung nach vorzuziehen.

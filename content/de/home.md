@@ -1,10 +1,10 @@
 ---
 ---
 
-are getting married
+wir heiraten am
 
-**Friday 3rd June 2022 at 12:00**
+**Freitag den 3. Juni 2022 um 12:00**
 
-at the
+in der
 
 **Marie de Monaco**

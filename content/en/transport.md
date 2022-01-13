@@ -25,7 +25,7 @@ If you are flying into the airport and heading to Menton, there are a few ways t
 
 ### Airport bus
 
-The 110 Airport bus is the easiest way to get from the airport to Menton or Monaco because it will pick you up directly from the terminal and take you straight into the middle of Menton or Monaco. [Here](https://storage.googleapis.com/is-wp-22-prod/uploads-prod/2019/11/ZOU06_PLAN_DES_LIGNES_ALPES_MARITIMES-2-1.pdf) is a route map, [here](https://storage.googleapis.com/is-wp-22-prod/uploads-prod/2021/08/ZOU06_TARIF_AEROPORT_LIGNES_110_210_250_07_2021.pdf) is a price list and [here](https://storage.googleapis.com/is-wp-22-prod/uploads-prod/2021/04/ZOU06_Ligne110_AEROPORT_MONACO_MENTON_valable_%C3%A0_compter_du_26_-avril_-2021.pdf) is a timetable. The 110 takes the fastest route along the A8 autoroute and then heads down into Monaco and then along the coast to Menton.
+The 110 Airport bus is the easiest way to get from the airport to Menton or Monaco because it will pick you up directly from the terminal and take you straight into the middle of Menton or Monaco. [Here](https://storage.googleapis.com/is-wp-22-prod/uploads-prod/2019/11/ZOU06_PLAN_DES_LIGNES_ALPES_MARITIMES-2-1.pdf) is a route map, [here](https://storage.googleapis.com/is-wp-22-prod/uploads-prod/2021/08/ZOU06_TARIF_AEROPORT_LIGNES_110_210_250_07_2021.pdf) is a price list and [here](https://storage.googleapis.com/is-wp-22-prod/uploads-prod/2021/04/ZOU06_Ligne110_AEROPORT_MONACO_MENTON_valable_%C3%A0_compter_du_26_-avril_-2021.pdf) is a timetable. The 110 takes the fastest route along the A8 autoroute and then heads down into Monaco and then along the coast to Menton. You should get off the bus as the second last stop, Casino.
 
 It is our favorite way of getting to and from the Airport and costs 33 euros return or 22 euros one-way. You can buy your tickets from the driver or in the terminal.
 
@@ -49,7 +49,7 @@ Nice airport has the usual hire car companies and if you are staying a few days 
 
 There are a few other options that we would not recommend:
 
-- Helecopter to Monaco - Quick but expensive
+- Helicopter to Monaco - Quick but expensive
 - 100 Bus to Menton - Cheap but very slow and you first need to go through the whole of Nice on the tram to take it.
 
 ## If you are arriving by car
