@@ -1,5 +1,8 @@
 <template>
-  <div class="w-screen" style="background-image: url(/monaco-background.png)">
+  <div
+    class="w-screen"
+    style="background-image: url(/monaco-background-small.jpg)"
+  >
     <Header class="fixed w-screen" />
     <Nuxt class="h-full w-screen" />
   </div>
