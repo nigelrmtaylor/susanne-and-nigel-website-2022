@@ -7,6 +7,6 @@
 Monaco Ville  
 Monaco
 
-La Mairie de Monaco, Monaco's town hall is among the oldest insitutions of the principality and has a beautiful wood-panelled registry office.
+La Mairie de Monaco, das Bürgermeisteramt von Monaco gehört zu den ältesten Einrichtungen im Fürstentum und hat ein Standesamt mit wundervoller Wandvertäfelung.
 
-The bus from the hotel will take you up right to the bus terminal and from there you just need to walk 50m straight down the lane from where the bus will drop you off.
+Der Bus von Menton bringt Euch zum Felsen, höchstwahrscheinlich, wo auch die Linienbusse ihre Endhaltestelle haben. Von dort aus sind es noch ein paar Minuten zu Fuß zum Standesamt.

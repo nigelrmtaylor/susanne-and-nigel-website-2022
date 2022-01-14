@@ -8,6 +8,6 @@ Place de Palais
 Monaco Ville  
 Monaco
 
-The location for the Champagne reception is only a few minutes away on foot, so after the wedding ceremony we will walk together to Castleroc, right opposite the castle, where we will be received with champagne and other drinks and some nibbles.
+Der Stehempfang ist zu Fuß nur ein paar Minuten weiter im Castleroc. Nach der Zeremonie werden wir gemeinsam dorthin gehen, direkt gegenüber vom Schloß, wo es Champagner und andere Erfischungen und Häppchen gibt.
 
-We have enough time there to walk around and do some quick sight-seeing on the palace square and the park before we will take the bus to the Villa Eva Beach.
+Wir haben genug Zeit dort, damit Ihr Euch dort auch ein wenig umschauen könnt, bevor wir mit dem Bus weiter nach Latte zur Villa Eva Beach weiter fahren.

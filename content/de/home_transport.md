@@ -1,5 +1,5 @@
-# Transport
+# Anreise
 
-For those who are flying in, Nice (NCE) is the nearest airport and is about 40 mins away from Monaco.
+Für alle, die mit dem Flugzeug anreisen, der Flughafen von Nizza, Nice Côte d'Azur (NCE), ist der nächste Flughafen und etwa 40 Autominuten von Monaco entfernt.
 
-[Click here](../transport) for more information about how best to get to Menton and around during the wedding.
+[Hier](../transport) findet Ihr einige Informationen, wie Ihr am besten nach Menton kommt und was es sonst für Transportmöglichkeiten hier gibt.

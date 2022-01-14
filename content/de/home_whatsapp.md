@@ -1,5 +1,3 @@
 # WhatsApp German
 
-To help is all commmunicate during the wedding, we have created a whatsapp group
-
-Click [Here](https://chat.whatsapp.com/HoYypqnYuY7KgVVRnbRrjt) to join the group.
+Um die Kommunikation vor und während der Hochzeit zu vereinfachen, haben wir eine WhatsApp-Gruppe gegründet, [klickt hier](https://chat.whatsapp.com/HoYypqnYuY7KgVVRnbRrjt) um der Gruppe beizutreten.
