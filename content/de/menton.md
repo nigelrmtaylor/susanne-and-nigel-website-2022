@@ -14,7 +14,10 @@ Das bezaubernde Städtchen mit einer Zitrone als Wahrzeichen ist ein El Dorado f
 
 Hier noch ein paar Links für weitere Informationen:
 - [Menton - Côte d'azur.de](https://www.cotedazur.de/menton.html)
+- [Menton – Die Provence-Stadt an der Grenze zu Italien](https://www.provence-info.de/staedte/menton/)
 - [Menton - Wikipedia](https://de.wikipedia.org/wiki/Menton)
+- [Menton and its Coastline (en)](https://www.menton-riviera-merveilles.co.uk/menton-and-its-coastline/)
+- [Ville de Menton (fr)](https://www.menton.fr/)
 
 
 <article-image src="castelroc.jpg" alt="Menton" float-right ></article-image>
