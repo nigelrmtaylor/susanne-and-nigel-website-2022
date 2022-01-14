@@ -1,5 +1,3 @@
-const { redis } = require('googleapis/build/src/apis/redis')
-
 module.exports = {
   theme: {
     screens: {

@@ -19,7 +19,7 @@
 
         <div class="col-span-1">
           <div
-            class="flex-grow bg-whiteish bg-opacity-80 p-5 text-center rounded-lg"
+            class="flex-grow bg-gray-light bg-opacity-80 p-5 text-center rounded-lg"
           >
             <!-- <div class="bg-midpurple"> -->
             <img class="object-fit w-full" src="/mairie.jpg" />
@@ -33,7 +33,7 @@
 
         <div class="col-span-1">
           <div
-            class="flex-grow bg-whiteish bg-opacity-80 p-5 text-center rounded-lg"
+            class="flex-grow bg-gray-light bg-opacity-80 p-5 text-center rounded-lg"
           >
             <!-- <div class="bg-midpurple"> -->
             <img class="object-fit w-full" src="/castelroc.jpg" />
@@ -47,7 +47,7 @@
 
         <div class="col-span-1">
           <div
-            class="flex-grow bg-whiteish bg-opacity-80 p-5 text-center rounded-lg"
+            class="flex-grow bg-gray-light bg-opacity-80 p-5 text-center rounded-lg"
           >
             <!-- <div class="bg-midpurple"> -->
             <img class="object-fit w-full" src="/villa_eva.jpg" />
@@ -61,7 +61,7 @@
 
         <div class="md:col-span-3 m-2">
           <div
-            class="flex-grow bg-whiteish bg-opacity-80 p-5 text-center rounded-lg"
+            class="flex-grow bg-gray-light bg-opacity-80 p-5 text-center rounded-lg"
           >
             <!-- <div class="bg-midgreen"> -->
             <!-- <img
@@ -79,10 +79,10 @@
 
         <div class="md:col-span-3 m-2">
           <div
-            class="flex-grow bg-whiteish bg-opacity-80 p-5 text-center rounded-lg"
+            class="flex-grow bg-gray-light bg-opacity-80 p-5 text-center rounded-lg"
           >
             <!-- <div class="bg-midpurple"> -->
-            <img class="object-fit w-full" src="/nice-airport.jpg" />
+
             <!-- </div> -->
             <nuxt-content
               class="prose lg:prose-xl p-5 max-w-none text-left"

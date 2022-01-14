@@ -4,7 +4,7 @@ The festivities will be spread over 2 days (Thursday 2nd June & Friday 3rd June)
 
 ## Thursday
 
-We expect that our guests will arrive for the wedding on Thursday and make their way to their accommodation. We have put together some [notes](/en/transport) on how best to get from the Airport to Menton for those who will be arriving by plane. As discussed here, [Menton](/en/menton) is a lovely place and well worth spending some time exploring.
+We think our guests will arrive for the wedding on Thursday and make their way to their accommodation. We have put together some [notes](/en/transport) on how best to get from the Airport to Menton for those who will be arriving by plane. As discussed here, [Menton](/en/menton) is a lovely place and well worth spending some time exploring.
 
 ---
 
@@ -25,7 +25,6 @@ The journey from Menton to Monaco Ville on [Le Rocher](https://www.visitmonaco.c
 ---
 
 <google-map name="monaco-map" width=440 height="300" float-center></google-map>
-When we arrive on at the Rock, the coach will most probably drop everyone off at the underground parking by the [Musée Ocenographique](https://musee.oceano.org/en/). You need to take the lift and escalators up and from there it is a 5 minute walk to the [Marie](https://www.mairie.mc/) where the wedding ceremony will take place. The ceremony will take around 30 minutes.
 
 ---
 
@@ -39,4 +38,6 @@ At around 14:30, we will walk back to the Coach for the trip to the Reception at
 
 ---
 
-Upon arrival at Villa Eva Beach at around 16:00, we will be welcomed with Prosecco and and a great Italian aperitivo buffet.
+Upon arrival at Villa Eva Beach at around 16:00, we will be welcomed with Prosecco and a great Italian aperitivo buffet to be followed by dinner.
+
+We will arrange shuttle busses from Villa Eva Beach to Menton from around 22:30.

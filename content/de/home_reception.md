@@ -1,4 +1,4 @@
-#  Wedding Reception & Party
+# Hochzeitsfest
 
 16:00 - Villa Eva Beach  
 Via Romana 43  
@@ -6,3 +6,5 @@ Via Romana 43
 Italy
 
 Hier findet das große Fest statt.
+
+[Hier](/de/events) gibt es mehr Informationen zu den Festivitäten.

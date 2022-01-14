@@ -12,6 +12,4 @@ Yes, if you come the previous weekend. The race is run by the [Automobile Club d
 
 ## What does a taxi cost from the airport to Menton?
 
- The fares are fixed and listed [here](https://www.nice.aeroport.fr/en/directions/taxis) with the price being 95 - 125 EUR to Menton.
-
-## What is the best way to get from the airport to to Menton?
+The fares are fixed and listed [here](https://www.nice.aeroport.fr/en/directions/taxis) with the price being 95 - 125 EUR to Menton.

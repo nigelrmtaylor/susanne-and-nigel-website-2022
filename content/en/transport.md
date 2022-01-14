@@ -2,7 +2,7 @@
 
 We will take care of all the transport on the day of the wedding (Friday) between where we expect people to stay in [Menton](/en/menton), the wedding ceremony in [Monaco](/en/monaco) and the Reception in [Latte](/en/latte). Don't worry about the logistics, that is our problem.
 
-You will need to get yourselves to [Menton](/en/menton) on Thursday in time for the 'Beer & Pizza' evening (20:00 ish) and away from there on afterwards.
+You will need to get yourselves to [Menton](/en/menton) on Thursday in time for the 'Beer & Pizza' evening (20:00 ish).
 
 ---
 
@@ -31,7 +31,7 @@ It is our favorite way of getting to and from the Airport and costs 33 euros ret
 
 ### Train
 
-The train is a fairly good option of getting from the airport to Monaco or Menton. The disadvantage is that you first need to take a tram (free) from the terminal to the station (Nice St Augustin). [Here](https://www.lignesdazur.com/horaires-ligne/115) is a plan. You need to get off at the Grand Arénas stop and then walk along to Nice St Augustin. At the station, there is a ticket machine at the station. It's a bit messay but it works.
+The train is a fairly good option of getting from the airport to Monaco or Menton. The disadvantage is that you first need to take a tram (free) from the terminal to the station (Nice St Augustin). [Here](https://www.lignesdazur.com/horaires-ligne/115) is a plan. You need to get off at the Grand Arénas stop and then walk along to Nice St Augustin. At the station, there is a ticket machine at the station. It's a bit messy but it works.
 
 Once on the train, you get a beautiful journey between Nice & Monaco/Menton where the train hugs the coast and provides some lovely views. Just make sure you are on the coast side (right side) of the train.
 
@@ -62,6 +62,6 @@ Bear in mind that the autoroutes in France charge a toll (peage) and from the ai
 
 If you intend to come to the wedding ceremony with your own car, be aware that there is no possibility for parking up on the Rock, the closest parking is the Parking du Chemin des Pêcheurs directly below the Oceanographic Museum. The parking has a lift up to the Oceanographic Museum on the Rock and you'll find yourself just a few minutes walk away from the Mairie.
 
-If you coming with public transport, the terminus of Monaco buses nr 1 and 2 is up at the Rock, just a few minutes walk away from the Mairie. You can take either one of the buses from the train station, nr 2 at the upper exit and nr 1 at the lower exit (quicker).
+If you are coming with public transport, the terminus of Monaco buses nr 1 and 2 is up at the Rock, just a few minutes walk away from the Mairie. You can take either one of the buses from the train station, nr 2 at the upper exit and nr 1 at the lower exit (quicker).
 
-We are organising buses from the hotels to the wedding ceremony from the ceremony and then back to the reception and party. Shuttle buses will also be provided to take you back to the hotels after the party.
+We are organising buses from the hotels to the wedding ceremony, and to the reception and party in Italy. Shuttle buses will also be provided to take you back to the hotels after the party.
