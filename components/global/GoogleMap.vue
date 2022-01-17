@@ -102,7 +102,9 @@ export default {
 
   computed: {
     iframeSource() {
-      return `https://www.google.com/maps/d/embed?mid=${this.mapId}`
+      const url = `https://www.google.com/maps/d/embed?mid=${this.mapId}`
+      console.log('url', url)
+      return url
     },
   }, // computed
 

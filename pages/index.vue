@@ -101,6 +101,17 @@
             />
           </div>
         </div>
+
+        <div class="md:col-span-3 m-2">
+          <div
+            class="flex-grow bg-gray-light bg-opacity-80 p-5 text-center rounded-lg"
+          >
+            <nuxt-content
+              class="prose lg:prose-xl p-5 max-w-none text-center"
+              :document="presentsPage"
+            />
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -111,7 +122,6 @@ import Vue from 'vue'
 
 export default Vue.extend({
   async asyncData(context) {
-    console.log('in index')
     const { $content, app } = context
 
     const locale = app.i18n.locale
@@ -124,6 +134,7 @@ export default Vue.extend({
     const champagnePath = `${locale}/home_champagne`
     const receptionPath = `${locale}/home_reception`
     const whatsappPath = `${locale}/home_whatsapp`
+    const presentsPath = `${locale}/home_presents`
 
     // const posts = await $content(`${app.i18n.locale}/blog'`).fetch()
 
@@ -135,6 +146,7 @@ export default Vue.extend({
     const champagnePage = await $content(champagnePath).fetch()
     const receptionPage = await $content(receptionPath).fetch()
     const whatsappPage = await $content(whatsappPath).fetch()
+    const presentsPage = await $content(presentsPath).fetch()
 
     return {
       locale,
@@ -146,6 +158,7 @@ export default Vue.extend({
       champagnePage,
       receptionPage,
       whatsappPage,
+      presentsPage,
     }
   },
 })
