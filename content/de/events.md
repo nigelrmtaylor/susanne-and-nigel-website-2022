@@ -4,9 +4,9 @@ Die Festlichkeiten sind auf 2 Tage verteilt (Donnerstag, 2. Juni & Freitag, 3. J
 
 ## Donnerstag
 
-Wir gehen davon aus, dass die meisten unserer Gäste am Donnerstag anreisen. Wir haben dazu einige [Informationen](/de/transport) zusammen gestellt, wie Ihr am besten vom Flughafen nach Menton kommt.
+Wir gehen davon aus, dass die meisten unserer Gäste am Donnerstag anreisen. Wir haben dazu einige [Informationen](/de/transport) zusammengestellt, wie Ihr am besten vom Flughafen nach Menton kommt.
 
-Am Donnerstag abend planen wir ein informelles Abendessen in [Menton](/en/menton), Stil "Bier und Pizza", um Euch allen die Gelengenheit zu geben, Euch schon vor dem großen Tag kennen zu lernen. Statt finden wird dies höchstwahrscheinlich in einem der [Restaurants am Hafen](https://www.google.com/maps/d/edit?mid=1wow9OD6sphe7DFiSzH8Cu2olGf7uTnwZ&usp=sharing).
+Am Donnerstag Abend planen wir ein informelles Abendessen in [Menton](/en/menton), Stil "Bier und Pizza", um Euch allen die Gelegenheit zu geben, Euch schon vor dem großen Tag kennen zu lernen. Stattfinden wird dies höchstwahrscheinlich in einem der [Restaurants am Hafen](https://www.google.com/maps/d/edit?mid=1wow9OD6sphe7DFiSzH8Cu2olGf7uTnwZ&usp=sharing).
 
 ## Freitag
 
@@ -20,7 +20,7 @@ Die Fahrt von Menton bis zum "Felsen" (Monaco Ville) auf [Le Rocher](https://www
 
 <article-image src="castelroc.jpg" alt="Menton" float-left ></article-image>
 
-Anschließend werden wir gemeinsam zu Fuß zum [Castelroc](https://www.castelrocmonaco.com/) gehen, das sind nur ein paar Minuten, wo wir Champagner und Häppchen bekommen.
+Anschließend werden wir gemeinsam zu Fuß zum [Castelroc](https://www.castelrocmonaco.com/) gehen, das sind nur ein paar Minuten, wo wir mit Champagner anstoßen werden.
 
 ---
 

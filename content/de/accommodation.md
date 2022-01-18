@@ -21,4 +21,4 @@ Die Hochzeitsfeier findet in der Villa Eva Beach in [Latte](/de/latte) statt, et
 
 ## Monaco
 
-Die Hochzeitszeremonie findet in Monaco statt, und es ist sicher interessant dort zu sein, die Übernachtungsmnöglichkeiten sind allerdings in einer ganz anderen Preisklasse. Auch hier ist unserer Meinung nach Menton vorzuziehen.
+Die Hochzeitszeremonie findet in Monaco statt, und es ist sicher interessant dort zu sein, die Übernachtungsmöglichkeiten sind allerdings in einer ganz anderen Preisklasse. Auch hier ist unserer Meinung nach Menton vorzuziehen.

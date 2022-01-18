@@ -2,7 +2,7 @@
 
 Wir sorgen für den Transport am Hochzeitstag (Freitag) zwischen [Menton](/de/menton), der Zeremonie in [Monaco](/de/monaco) und der Feier in [Latte](/de/latte). Zerbrecht Euch nicht den Kopf über die Logistik, das ist unser Problem.
 
-Am Donnerstag Abend, ab ca. 20:00, planen wir ein informelles Abendessen in [Menton](/en/menton), Stil "Bier und Pizza", um Euch allen eine Gelengenheit zu geben Euch schon vor dem großen Tag kennen zu lernen. Den Weg dahin müßt Ihr allerdings alleine finden.
+Am Donnerstag Abend, ab ca. 20:00, planen wir ein informelles Abendessen in [Menton](/en/menton), Stil "Bier und Pizza", um Euch allen eine Gelegenheit zu geben, Euch schon vor dem großen Tag kennen zu lernen. Den Weg dahin müßt Ihr allerdings alleine finden.
 
 ---
 
@@ -14,7 +14,7 @@ Der Plan oben zeigt die beiden Hauptrouten zwischen dem Flughafen und Menton. Di
 
 ## Anreise per Flugzeug
 
-Wenn Ihr mit dem Flugzeug anreist, habt Ihr folgende Möglichkeiten um nach Mento zu kommen:
+Wenn Ihr mit dem Flugzeug anreist, habt Ihr folgende Möglichkeiten um nach Menton zu kommen:
 
 - Flughafenbus
 - Zug
@@ -43,9 +43,9 @@ Am Flughafen gibt es viele Taxis und wenn ihr zu mehreren seid, könnte es sich 
 
 ### Mietwagen
 
-Der Flughafen von Nizza hat die üblichen Mietwagenfirmen und wenn Ihr vorhabt etwas länger zu bleiben, wäre das zu überlegen. Ein Mietwagen gibt euch mehr Flexibilität, aber auf der anderen Seite müßt Ihr Euch um Pakrplätze kümmern, denn nicht alle Hotels haben einen eigenen Parkplatz. Auch die Autobahn ist in Frankreich und Italien kostenpflichtig, und das kann schnell teuer werden. Die Autobahngebühr einfach von Flughafen nach Monaco beispielsweise kostet etwa 10 EUR.
+Der Flughafen von Nizza hat die üblichen Mietwagenfirmen und wenn Ihr vorhabt etwas länger zu bleiben, wäre das zu überlegen. Ein Mietwagen gibt euch mehr Flexibilität, aber auf der anderen Seite müßt Ihr Euch um Parkplätze kümmern, denn nicht alle Hotels haben einen eigenen Parkplatz. Auch die Autobahn ist in Frankreich und Italien kostenpflichtig, und das kann schnell teuer werden. Die Autobahngebühr einfach von Flughafen nach Monaco beispielsweise kostet etwa 10 EUR.
 
-### Andere
+### Weitere Anreisemöglichkeiten
 
 Es gibt noch ein paar weitere Möglichkeiten, von denen wir allerdings abraten:
 
@@ -54,10 +54,10 @@ Es gibt noch ein paar weitere Möglichkeiten, von denen wir allerdings abraten:
 
 ## Anreise mit dem Auto
 
-Sowohl Monaco als auch Menton sind ganz einfach über die A8 mit eingen Ausfahrten zu erreichen. Viele der Hotels die wir gefunden haben, haben auch eigene Parkplätze für Ihre Gäste, aber Ihr solltet sie gleich informieren und reservieren, wenn Ihr einen Parkplatz braucht. Bei Hotels ohne eigenem Parkplatz müßt Ihr in den öffentlichen Parkkäusern parken, vom Parken am Straßenrand wird dringend abgeraten.
+Sowohl Monaco als auch Menton sind ganz einfach über die A8 mit eigenen Ausfahrten zu erreichen. Viele der Hotels die wir gefunden haben, haben auch eigene Parkplätze für Ihre Gäste, aber Ihr solltet sie gleich informieren und reservieren, wenn Ihr einen Parkplatz braucht. Bei Hotels ohne eigenem Parkplatz müßt Ihr in den öffentlichen Parkhäusern parken, vom Parken am Straßenrand wird dringend abgeraten.
 
 ## Transport am Hochzeitstag
 
-Wenn Ihr mit Eurem eigenenn Auto zur Hochzeit kommen wollt, dann solltet Ihr wissen, dass es auf dem Felsen keinerlei Parkmöglichkeiten gibt. Das nächstgelegene Parkhaus ist das "Parking du Chemin des Pêcheurs", direkt unter dem Ozeanografischen Museum. Vor dort aus gibt es einen Lift nach oben direkt zum Eingang des Museums und das ist nur ein paar Minuten zu Fuß von der Mairie entfernt.
+Wenn Ihr mit Eurem eigenen Auto zur Hochzeit kommen wollt, dann solltet Ihr wissen, dass es auf dem Felsen keinerlei Parkmöglichkeiten gibt. Das nächstgelegene Parkhaus ist das "Parking du Chemin des Pêcheurs", direkt unter dem Ozeanografischen Museum. Vor dort aus gibt es einen Lift nach oben direkt zum Eingang des Museums und das ist nur ein paar Minuten zu Fuß von der Mairie entfernt.
 
 Wenn Ihr mit öffentlichen Verkehrsmitteln kommt, die Endhaltestelle der Busse Nr. 1 und 2 ist auf dem Felsen, nur ein paar Minuten zu Fuß von der Mairie entfernt. Beide Busse haben Haltestellen an den Ausgängen des Bahnhofs, Nr. 2 am oberen Ausgang und Nr. 1 am unteren, das ist auch schneller.
