@@ -1,4 +1,4 @@
-# Presents
+# Geschenke
 
 Liebe Familie und Freunde, liebe Gäste, es ist üblich einem jungen Paar zur Hochzeit mit Geschenken zu helfen, Ihren ersten Hausstand einzurichten. Wir sind aber weder jung noch richten wir eine Wohnung ein, Ihr braucht Euch also wirklich nicht den Kopf über ein Geschenk zu zerbrechen.
 
