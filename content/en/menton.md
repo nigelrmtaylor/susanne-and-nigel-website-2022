@@ -18,6 +18,3 @@ Here are a few links for more information about Menton
 - [Menton - Wikipedia](https://en.wikipedia.org/wiki/Menton)
 - [Menton and its Coastline (en)](https://www.menton-riviera-merveilles.co.uk/menton-and-its-coastline/)
 - [Ville de Menton (fr)](https://www.menton.fr/)
-
-
-<article-image src="castelroc.jpg" alt="Menton" float-right ></article-image>
