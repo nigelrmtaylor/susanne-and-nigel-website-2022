@@ -1,7 +1,7 @@
-# Presents
+# Geschenke
 
-It is traditional for guests to bring presents for the young bride and groom to help then set up their new home.
+Liebe Familie und Freunde, liebe Gäste, es ist üblich einem jungen Paar zur Hochzeit mit Geschenken zu helfen, Ihren ersten Hausstand einzurichten. Wir sind aber weder jung noch richten wir eine Wohnung ein, Ihr braucht Euch also wirklich nicht den Kopf über ein Geschenk zu zerbrechen.
 
-We are neither young nor setting up a new home so we really do not wish you to give presents. We know you will all have spent a lot getting and staying here and your presence is the biggest present you can give us.
+Das schönste Geschenk für uns ist, dass Ihr kommt und uns helft, diesen großen Tag zu einem unvergesslichen Ereignis zu machen.
 
-Thank you.
+Vielen Dank!
