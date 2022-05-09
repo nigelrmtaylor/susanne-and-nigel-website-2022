@@ -2,7 +2,7 @@
 
 We will take care of all the transport on the day of the wedding (Friday) between where we expect people to stay in [Menton](/en/menton), the wedding ceremony in [Monaco](/en/monaco) and the Reception in [Latte](/en/latte). Don't worry about the logistics, that is our problem.
 
-You will need to get yourselves to [Menton](/en/menton) on Thursday in time for the 'Beer & Pizza' evening (20:00 ish).
+You will need to get yourselves to [Menton](/en/menton) on Thursday in time for the 'Beer & Pizza' evening (19:30 at Le Belle Escale).
 
 ---
 

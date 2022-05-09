@@ -3,7 +3,7 @@
 
 # Hochzeitszeremonie
 
-12:00 - Marie de Monaco  
+11:30- Marie de Monaco  
 Monaco Ville  
 Monaco
 

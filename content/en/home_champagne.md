@@ -1,6 +1,6 @@
 # Champagne Reception
 
-12:30 - 14:00 Castelroc  
+12:30 - 14:30 Castelroc  
 Place de Palais  
 Monaco Ville  
 Monaco

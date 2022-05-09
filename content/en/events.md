@@ -10,7 +10,7 @@ We think our guests will arrive for the wedding on Thursday and make their way t
 
 <google-map name="beer-and-pizza-map" width=440 height="300" float-right></google-map>
 
-On Thursday evening, we will host an informal 'Beer & Pizza' evening to give people time to get to know each other before the main events of Friday begin. This will likely be held in one of the restaurants by the port. We will let you know the details when we know them.
+On Thursday evening, we will host an informal 'Beer & Pizza' evening to give people time to get to know each other before the main events of Friday begin. This will be held in La Belle Escale, one of the restaurants by the port from 7:30 until 22:30.
 
 ## Friday
 
@@ -40,4 +40,4 @@ At around 14:30, we will walk back to the Coach for the trip to the Reception at
 
 Upon arrival at Villa Eva Beach at around 16:00, we will be welcomed with Prosecco and a great Italian aperitivo buffet to be followed by dinner.
 
-We will arrange shuttle busses from Villa Eva Beach to Menton from around 22:30.
+We will arrange busses from Villa Eva Beach to Menton & Monaco at the end of the evening (Around midnight).
