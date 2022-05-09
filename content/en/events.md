@@ -40,4 +40,4 @@ At around 14:30, we will walk back to the Coach for the trip to the Reception at
 
 Upon arrival at Villa Eva Beach at around 16:00, we will be welcomed with Prosecco and a great Italian aperitivo buffet to be followed by dinner.
 
-We will arrange busses from Villa Eva Beach to Menton & Monaco at the end of the evening (Around midnight).
+We will arrange busses from Villa Eva Beach to Menton & Monaco at the end of the evening (around midnight).
